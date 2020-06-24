@@ -1,7 +1,7 @@
 country = input('What is your nationality: ')
 age = input('Enter your age: ')
 age = int(age)
-if country == 'Taiwan ':
+if country == 'Taiwan':
 	if age >= 18:
 		print('Bro, go get the license. ')
 	else:
