@@ -12,4 +12,4 @@ elif country == 'USA':
 	else:
 		print('Sorry, you are too young for the driver\'s license. ')
 else:
-	print('Sorry man')
+	print('Sorry man, you can only enter Taiwan or USA')
